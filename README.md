@@ -89,3 +89,7 @@ https://academic.interskill.com
 ### Flat Files
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/3.png)
+
+
+### Armazenamento
+
