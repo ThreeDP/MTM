@@ -13,6 +13,9 @@ http://mtm2019.mybluemix.net/connectivity_guide/connectivity_guide_software.html
 > Irá acessar um determinada aba a partir da tela inicial. Exemplo: =3.2 Primeiramente será acessado a aba utilities e logo após a aba data set.
 
 **u + Enter**
-> Apertando u e dando enter o unix shell é acessado.
+> Apertando u e dando enter no menu principal o unix shell é acessado.
+
+**x + Enter**
+> 
 
 
