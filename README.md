@@ -93,3 +93,8 @@ https://academic.interskill.com
 
 ### Armazenamento
 
+Em uma variavel os 4 primeiros bytes de toda a gravação são reservados para identificar o comprimento dos dados alocados.
+
+**Proposta de cada formato flat files**
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/4.png)
