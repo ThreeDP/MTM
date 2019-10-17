@@ -73,8 +73,16 @@ __________________________________________________________________________
 
 > Em uma estrutura PDS usamos referencia a librarias para organizar grupos de prodution ou application e um sistema de RACF é usado para limitar o acesso, autorizar acesso ou modificações.
 
-**VSAM**
-> 
+**VSAM - Virtual Storage Access Method**
+>  É referente á um metodo de acesso direto á um dado, ou um processamento direto, dados que podem ser acessados diretamente são key, record number, sequencial processing of fixed e variable length records.
+
+Alguns formatos que suportam esse acesso são:
+
+        Key Sequenced Data Set (KSDS)
+        Relative Record Data Set (RRDS)
+        Entry Sequenced Data Set (ESDS)
+       
+> O VSAM é usado para armazenar na memoria dados para um acesso direto e mais rápido. 
 
 ### Database
 
