@@ -69,6 +69,9 @@ Em uma variavel os 4 primeiros bytes de toda a gravação são reservados para i
         A função DTRAIN.SOURCE.CNTL(NOME_MEMBRO) para acesso individual de um membro.
         
 > PDS é usado para organizar codigos fontes e executavels que são necessarioas para executar aplicações em um sistema empresarial. Exemplos de tupos de codigos e modulos que contem em um extrutura PDS são: COBOL, SOURCE, COPY, JCL and LOADLIB(executavel).
+__________________________________________________________________________
+
+> Em uma estrutura PDS usamos referencia a librarias para organizar grupos de prodution ou application e um sistema de RACF é usado para limitar o acesso, autorizar acesso ou modificações.
 
 **VSAM**
 > 
