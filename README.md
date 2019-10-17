@@ -34,4 +34,5 @@ https://academic.interskill.com
 > è um data set que possui informações sobre outro data set, isso inclui tipo, tamanho e formato.
 
 **Master Catalog**
+
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/1.png)
