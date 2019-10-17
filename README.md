@@ -19,3 +19,18 @@ http://mtm2019.mybluemix.net/connectivity_guide/connectivity_guide_software.html
 > 
 
 
+# ACESSO
+
+**IBM ACADEMIC**
+https://academic.interskill.com
+
+
+# ESTUDO
+
+**Data set**
+> São semelhantes a arquivos. Data set são um conjunto de dados.
+
+**Catalog**
+> è um data set que possui informações sobre outro data set, isso inclui tipo, tamanho e formato.
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/img/datamanagement/1.png)
