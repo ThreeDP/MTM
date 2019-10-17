@@ -43,3 +43,49 @@ https://academic.interskill.com
 **Atributos do data set**
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/2.png)
+
+**DASD (Direct Access Storage Device)**
+> É como a IBM se refere ao seu armazenamento online ao invez de chama-los somente de disco.
+
+### Basic
+
+**QSAM**
+>
+
+**PDS**
+>
+
+**VSAM**
+> 
+
+### Database
+
+**IMS/DB**
+>
+
+**IDMS**
+>
+
+**DB2**
+>
+
+### Offiline
+
+**CART**
+>
+
+**HMS**
+> 
+
+### Access Methods (AM)
+
+    BSAM - Basic sequential
+    QSAM - Queued sequential
+    VSAM - Virtual storage
+    BDAM - Basic direct
+    BPAM - Basic partitioned
+    
+    
+### Flat Files
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/3.png)
