@@ -47,13 +47,28 @@ https://academic.interskill.com
 **DASD (Direct Access Storage Device)**
 > É como a IBM se refere ao seu armazenamento online ao invez de chama-los somente de disco.
 
+# Armazenamento
+
+Em uma variavel os 4 primeiros bytes de toda a gravação são reservados para identificar o comprimento dos dados alocados.
+
+**Proposta de cada formato flat files**
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/4.png)
+
+
 ### Basic
 
 **QSAM**
 >
 
-**PDS**
->
+**PDS - Partitioned Data Set**
+> Contém em ordem membros com nomes unicos de até 8 caracteres e tem todas as caracteristiras de um flat file, porém todos os membros possuem o mesmo atributo. Ele é usado para administrar necessidades de um grupo em comum de usuários.
+
+        A função DTRAIN.SOURCE.CNTL é usada para listar os membros de um PDS
+        
+        A função DTRAIN.SOURCE.CNTL(NOME_MEMBRO) para acesso individual de um membro.
+        
+> PDS é usado para organizar codigos fontes e executavels que são necessarioas para executar aplicações em um sistema empresarial. Exemplos de tupos de codigos e modulos que contem em um extrutura PDS são: COBOL, SOURCE, COPY, JCL and LOADLIB(executavel).
 
 **VSAM**
 > 
@@ -91,10 +106,3 @@ https://academic.interskill.com
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/3.png)
 
 
-### Armazenamento
-
-Em uma variavel os 4 primeiros bytes de toda a gravação são reservados para identificar o comprimento dos dados alocados.
-
-**Proposta de cada formato flat files**
-
-![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/4.png)
