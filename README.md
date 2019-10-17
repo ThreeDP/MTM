@@ -25,7 +25,7 @@ http://mtm2019.mybluemix.net/connectivity_guide/connectivity_guide_software.html
 https://academic.interskill.com
 
 
-# ESTUDO
+# ESTUDO DOS TERMOS
 
 **Data set**
 > São semelhantes a arquivos. Data set são um conjunto de dados.
@@ -36,3 +36,9 @@ https://academic.interskill.com
 **Master Catalog**
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/1.png)
+
+**RACF**
+> É uma ferramenta que define as regras de segurança e de SMS (Storage Management System). O RACF determina por exemplo as regras de acesso de alguns usuários ou de um grupo de usuarios e o SMS determina as regras de alocação do data set.
+
+**Atributos do data set**
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/2.png)
