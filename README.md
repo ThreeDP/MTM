@@ -84,6 +84,19 @@ Alguns formatos que suportam esse acesso são:
        
 > O VSAM é usado para armazenar na memoria dados para um acesso direto e mais rápido. 
 
+**DBMS**
+> Gerencia e controla o acesso as discos de armazenamento.
+
+        Gerencia das seguintes formas:
+        - Controle de concorrencia:
+        gerencia o a leitura e atualização dos dados que são feitas por aplicações e threads para que não ocorra inconsistencia de dados.
+        - Segurança dos dados:
+        Controla os acessos, permições e operações realizadas nos dados para que soomente que tenha permição possa acessar.
+        - Recuperação e manutenção de logs e backups, permitindo a recuperação em um momneto anterior ao desaastre.
+        
+       
+
+
 ### Database
 
 **IMS/DB**
