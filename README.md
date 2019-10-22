@@ -95,6 +95,8 @@ Alguns formatos que suportam esse acesso são:
         - Recuperação e manutenção de logs e backups, permitindo a recuperação em um momneto anterior ao desaastre.
        
 A IBM tem dos systemas de banco de dados que provem essas funcionalidades o IMS e o DB2. 
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/5.png)
        
 ### Database
 
