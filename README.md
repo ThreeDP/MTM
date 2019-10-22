@@ -99,6 +99,14 @@ A IBM tem dos systemas de banco de dados que provem essas funcionalidades o IMS 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/5.png)
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/datamanagement/6.png)
+
+**IMS DB**
+*DL/I: Data Language*
+> Linguagem usada para que aplicações acessem IMS databases.
+__________________________________________________
+> Não é necessario realizar algumas ações de baixo nivel como login ou backup por que o IMS já gerencia isso pra você.
+
+
        
 ### Database
 
