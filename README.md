@@ -93,10 +93,9 @@ Alguns formatos que suportam esse acesso são:
         - Segurança dos dados:
         Controla os acessos, permições e operações realizadas nos dados para que soomente que tenha permição possa acessar.
         - Recuperação e manutenção de logs e backups, permitindo a recuperação em um momneto anterior ao desaastre.
-        
        
-
-
+A IBM tem dos systemas de banco de dados que provem essas funcionalidades o IMS e o DB2. 
+       
 ### Database
 
 **IMS/DB**
