@@ -69,3 +69,5 @@ Interfaces DL/I especificas são indicadas para linguagens de programação espe
 **WebSphere Aplication Server**
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/7.png)
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/8.png)
