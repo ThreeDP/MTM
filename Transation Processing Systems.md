@@ -61,4 +61,7 @@ Interfaces DL/I especificas são indicadas para linguagens de programação espe
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/5.png)
 
+*Comunicação de linguagens com CICS*
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/6.png)
+
 WebSphere Aplication Server
