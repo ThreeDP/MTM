@@ -54,5 +54,9 @@ Interfaces DL/I especificas são indicadas para linguagens de programação espe
                                  | CEETDLI                         
     
                       
-CICS (agora CICS Transation Server)
+**CICS (agora CICS Transation Server)**
+> É usado para acesso e gerenciamento onine de dados em banco de dados IMS DB, DB2 ou data sets nativos como VSAM.
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/4.png)
+
 WebSphere Aplication Server
