@@ -10,3 +10,8 @@
 - As transações de ACID não devem ter um escopo muito grande. Eles não devem tentar atualizar um banco de dados inteiro quando uma linha por vez é possível.
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/1.png)
+
+*Relax isolation*
+> É uma forma de evitar deadlock em momentos em que duas transações tentam acessar o mesmo recurso.
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/2.png)
