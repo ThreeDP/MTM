@@ -15,3 +15,44 @@
 > É uma forma de evitar deadlock em momentos em que duas transações tentam acessar o mesmo recurso.
 
 ![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/2.png)
+
+**Sistemas de Gerenciamento de transações**
+> 
+
+![Explicação sobre master catalog:](https://github.com/ThreeDP/MTM/blob/master/img/Transation_Processing_Systems/3.png)
+
+*Tipos de Sistemas*
+**IMS DC (agora IMS TM)**
+> a comunicação entre programas com IMS pode ser feita por uma interface de linguagem ou por uma chamada de API DL/I.
+
+Interfaces DL/I especificas são indicadas para linguagens de programação especificas ou também podemos usar dois modelos genericos CEE ou AIB.
+  
+    Interfaces para cada linguagem:
+    
+                      | CEETDLI   # generica
+    COBOL ------------| CBLTDLI   # interface mais indicada
+                      | AIBTDLI   # generica
+    
+                      | CEETDLI   # generica
+    Assembler --------| ASMTDLI   # interface mais indicada
+                      | AIBTDLI   # generica
+                      
+                      | CEETDLI   # generica
+    PL/I -------------| PLITDLI   # interface mais indicada
+                      | AIBTDLI   # generica
+                      
+                      | CEETDLI   # generica
+    C ----------------| CTDLI     # interface mais indicada
+                      | AIBTDLI   # generica
+                      
+                      | CEETDLI   # generica
+    PASCAL -----------| PASTDLI   # interface mais indicada
+                      | AIBTDLI   # generica
+
+
+    Outras linguagens -----------| AIBTDLI  
+                                 | CEETDLI                         
+    
+                      
+CICS (agora CICS Transation Server)
+WebSphere Aplication Server
