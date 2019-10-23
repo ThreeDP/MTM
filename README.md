@@ -115,7 +115,8 @@ A IBM tem dos systemas de banco de dados que provem essas funcionalidades o IMS 
 __________________________________________________
 > Não é necessario realizar algumas ações de baixo nivel como login ou backup por que o IMS já gerencia isso pra você.
 
-
+**DB2**
+Para acessar aplicações DB2 em um mainframe através de uma aplicação SQL é necessário um precompilador para converter status SQL em chamadas DB2. 
        
 ### Database
 
