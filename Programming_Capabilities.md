@@ -26,3 +26,15 @@
 
 PLI é uma ferramenta boa para operações matematicas complexas.
 
+**C**
+> A IBM fornece um compilador ANSI C para o ambiente enterprise da IBM, Também possui o ambiente para UNIX.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/2.png)
+
+A linguaem C++ é suportada da mesma forma que C.
+
+**Compilação de programas C ou C++**
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/3.png)
+
+
