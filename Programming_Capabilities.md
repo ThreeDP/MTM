@@ -63,4 +63,12 @@ ____________________________________________________________
 
 > O SAS é um ambiente de linguagem projetado para análise e relatórios estatísticos. É muito bom em sua tarefa projetada, mas não é adequado para sistemas gerais.
 
+**JAVA**
+>
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/6.png) 
+
+JavaBeans
+> Um método muito divulgado de acessar instalações corporativas e aplicativos herdados da linguagem Java é o Enterprise JavaBeans.
+> Os "beans" são componentes ou classes Java reutilizáveis, e o Enterprise JavaBeans foi criado pela IBM, pelas próprias empresas e por terceiros para fornecer uma interface de objeto Java familiar aos sistemas corporativos e aplicativos legados existentes.
 
