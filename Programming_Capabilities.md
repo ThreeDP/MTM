@@ -38,3 +38,10 @@ A linguaem C++ é suportada da mesma forma que C.
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/3.png)
 
 
+**CLIST e REXX**
+> São duas linguagens de script disponivel no ambiente da IBM. O CLIST é uma linguagem base e o REXX com o compilador SAA e outras extenções e seu sucessor moderno. Essas linguagens raramente são usadas em aplicações de negocio sendo usadas mais para expandir o ambiente TSO.
+____________________________________________________________
+
+> CLIST e REXX são normalmente executadas de forma interpretada, porém um compilador existe para REXX. A sintaxe das duas linguagens são muito similares porém a linguagem REXX sempre se inicia com:
+  
+    /* REXX */
