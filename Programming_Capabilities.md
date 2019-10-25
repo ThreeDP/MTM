@@ -3,15 +3,31 @@
 
 **1 Geração**
 
+    Binary
+    Octal
+    Hexidecimal
+    Opcodes
+
 **2º Geração**
 
-**3º Geração**
+    Assembly
+    Mnemonics
 
+**3º Geração**
+    
+    COBOL
+    Fortran
+    Pascal
+    PL/I
+    C
+    BASIC
+    
 **4º Geração**
 
     SAS
     FOCUS
     Easytrieve
+    Plain English
 
 **Orientada a objeto**
 
