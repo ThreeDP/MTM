@@ -111,3 +111,6 @@ JavaBeans
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/8.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/9.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/10.png)
+
+**link edit**
+> The link edit process resolves, that is, locates and includes any references to external modules, such as other applications, language, and system modules.
