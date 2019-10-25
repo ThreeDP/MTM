@@ -45,3 +45,22 @@ ____________________________________________________________
 > CLIST e REXX são normalmente executadas de forma interpretada, porém um compilador existe para REXX. A sintaxe das duas linguagens são muito similares porém a linguagem REXX sempre se inicia com:
   
     /* REXX */
+    
+![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/4.png)  
+
+**Motivos por as linguagens de 4º geração não substiruirem as de 3º geração**
+
+1. Roda de forma interpretada, tornando menos eficiente.
+2. Não se tornaram padrão como COBOL e C tornando dificil encontrar profissionais qualificados.
+3. Dificuldade na flexibiilidade na hora de resolver problemas não previsto pelos criadores da linguagem.
+4. A falta de suporte com o tempo e o progresso corporativo.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/5.png)  
+
+
+**Linguagens de 4º Geração**
+> FOCUS e Easytrieve São otimas linguagens para criar relatorios complexos sobre todo tipo de dados.
+
+> O SAS é um ambiente de linguagem projetado para análise e relatórios estatísticos. É muito bom em sua tarefa projetada, mas não é adequado para sistemas gerais.
+
+
