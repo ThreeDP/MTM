@@ -1,4 +1,23 @@
 
+# Linguagens e suas gerações
+
+**1 Geração**
+
+**2º Geração**
+
+**3º Geração**
+
+**4º Geração**
+
+    SAS
+    FOCUS
+    Easytrieve
+
+**Orientada a objeto**
+
+    Java
+    C++
+
 ### Assembler
 > Z/OS Assembler ou OS/390 Assembler são unicas para um ambiente z/OS.
 > Assembler é usada para acessar API e interfaces onde uma linguagem de alto nivel ainda não possa acessar.
