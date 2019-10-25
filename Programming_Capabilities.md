@@ -91,3 +91,5 @@ JavaBeans
 > Um método muito divulgado de acessar instalações corporativas e aplicativos herdados da linguagem Java é o Enterprise JavaBeans.
 > Os "beans" são componentes ou classes Java reutilizáveis, e o Enterprise JavaBeans foi criado pela IBM, pelas próprias empresas e por terceiros para fornecer uma interface de objeto Java familiar aos sistemas corporativos e aplicativos legados existentes.
 
+![](https://github.com/ThreeDP/MTM/blob/master/img/Programming_Languages/7.png)  
+
