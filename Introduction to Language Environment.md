@@ -24,4 +24,11 @@ Independete de onde o programa é executado: in batch, CICS, IMS, UNIX ou TSO os
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/9.png)
 
+No entando nem todas as linguagens usam o LE.
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/10.png)
+
+Programas Assembler executam independete de um ambiente de runtime, e não precisam usar LE. No entando LE provem macros para executar programs assembler.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/11.png)
+
 
