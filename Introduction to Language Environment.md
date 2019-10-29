@@ -10,3 +10,18 @@ Linguagens combiladas como COBOL, C e PL/1 precisão de dois componentes. Um com
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/4.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/5.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/6.png)
+
+**Conflito entre compilers e runtimes** 
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/7.png)
+
+**Runtime libraries comuns para todos os compilers de cada determinada linguagem**
+O LE é um componente do sistema z/OS.
+Ele é um Runtime que fornece ferramentas para todas as linguagens.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/8.png)
+
+Independete de onde o programa é executado: in batch, CICS, IMS, UNIX ou TSO os programas atuais sempre irão rodar via Language Environment.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/9.png)
+
+
