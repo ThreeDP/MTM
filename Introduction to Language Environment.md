@@ -63,3 +63,18 @@ O Language Environment oferece serviços opcionais que podem ser chamados a part
 Esse serviços podem ser chamados por qualquer linguagem exceto Fortran.
 
 [Todos esses serviços podem ser encontrados no Manual de Referencias LE](https://github.com/ThreeDP/MTM/blob/master/Manuais/Language%20Environment%20Programming%20Reference.pdf)
+
+**Chamando funções LE em C**
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/22.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/23.png)
+
+**Chamando funções LE em COBOL**
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/24.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/25.png)
+
+**Chamando funções LE em PL/I**
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/26.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/27.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/28.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/29.png)
+
