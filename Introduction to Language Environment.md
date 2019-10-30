@@ -103,7 +103,15 @@ ________________________________________________
 O armazenamento Heap é liberando expecificamente pelo programa ou quando a enclave termina.
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/37.png)
-
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/38.png)
-
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/39.png)
+
+# Condições
+> UM LE condition é um evento que requer a atenção do programa em execução. pode ser um erro ao abrir um dataset ou uma chama incorreta para um serviço do language Environment.
+
+Exemplo:
+
+    Por exemplo, um programa C pode chamar a função raise () ou um programa PL / I a instrução SIGNAL. Os programas também podem chamar a função LE CEESGL para criar uma condição.
+    
+> Cada condição tem uma gravidade. Alguns podem ser graves, exigindo o término do Enclave. Outros podem ser informativos ou de aviso, onde o programa pode continuar processando.
+
