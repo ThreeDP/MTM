@@ -120,3 +120,4 @@ Exemplo:
 > o LE fornece condições(condition) para tomar ações programadas quando um erro ocorrer. Quando um erro ocorre o LE irar realizar uma pesquisa das condition existentes entre todos os programas ativos atualmente partindo da ultima chamada até a primeira, se nenhuma condition for encontrada, o tratamento padrão será executado.
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/41.png)
+
