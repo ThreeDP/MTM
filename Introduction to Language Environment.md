@@ -20,6 +20,10 @@ Ele é um Runtime que fornece ferramentas para todas as linguagens.
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/8.png)
 
+**Personalizando o ambiente de processamento LE**
+
+
+
 Independete de onde o programa é executado: in batch, CICS, IMS, UNIX ou TSO os programas atuais sempre irão rodar via Language Environment.
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/9.png)
@@ -76,5 +80,14 @@ Esse serviços podem ser chamados por qualquer linguagem exceto Fortran.
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/26.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/27.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/28.png)
-![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/29.png)
 
+
+**Parametros para customizar o processamento na LE**
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/30.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/31.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/32.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/33.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/34.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/35.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/36.png)
