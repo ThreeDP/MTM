@@ -32,3 +32,34 @@ Programas Assembler executam independete de um ambiente de runtime, e não preci
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/11.png)
 
 
+**Language Environment separa o processo em processes, enclaves e threads**
+
+Processes
+> No sistema z/OS um process é equivalente a uma tarefa, uma transação CICS, uma transação IMS e um processo z/OS UNIX são processes LE.
+
+Enclave
+> Um enclave é um grupo de programas e subrotinas usadas para fazer alguma coisa juntas. COBL run units, C code within a main() statement, and code within a PL/I Procedure statement are all enclaves.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/12.png)
+
+Thread
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/13.png)
+
+
+O Language Environment oferece serviços opcionais que podem ser chamados a partir de programas do usuário.
+
+**Language Environment possui serviços que podem ser chamados em programas**
+> Esses são:
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/14.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/15.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/16.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/17.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/18.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/19.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/20.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/21.png)
+
+Esse serviços podem ser chamados por qualquer linguagem exceto Fortran.
+
+![Todos esses serviços podem ser encontrados no Manual de Referencias LE](https://github.com/ThreeDP/MTM/blob/master/Manuais/Language%20Environment%20Programming%20Reference.pdf)
