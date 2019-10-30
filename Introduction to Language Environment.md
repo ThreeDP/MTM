@@ -115,3 +115,4 @@ Exemplo:
     
 > Cada condição tem uma gravidade. Alguns podem ser graves, exigindo o término do Enclave. Outros podem ser informativos ou de aviso, onde o programa pode continuar processando.
 
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/40.png)
