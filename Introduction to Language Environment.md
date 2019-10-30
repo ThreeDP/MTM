@@ -91,3 +91,15 @@ Esse serviços podem ser chamados por qualquer linguagem exceto Fortran.
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/34.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/35.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/36.png)
+
+### Stack storage ou runtime stack
+> É alocado quando uma thread é criada pelo LE. Uma pilha(stack) inicial é alocada e isso pode ser adicionado pelo LE, conforme necessário. A pilha é liberada quando o encadeamento é finalizado.
+________________________________________________________
+> É usada para armazenar informações de ligação do módulo, salvamentos, variáveis automáticas C e PL / I e COBOL LOCAL-STORAGE. Cada thread tem sua própria pilha.
+
+### Heap storage
+> Um armazenamento Heap é usado por programas como COBOL WORKING-STORAGE, C malloc, requested storage, and PL/I ALLOCATE. É normalmente solicitado e é compartilhado entre dos os threads de uma enclave.
+________________________________________________
+O armazenamento Heap é liberando expecificamente pelo programa ou quando a enclave termina.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/37.png)
