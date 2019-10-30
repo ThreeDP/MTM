@@ -105,3 +105,5 @@ O armazenamento Heap é liberando expecificamente pelo programa ou quando a encl
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/37.png)
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/38.png)
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/39.png)
