@@ -145,4 +145,10 @@ Exemplo:
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/47.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/48.png)
 
+**Abandono Usuário**
 O Usuário pode decidir abandonar se encontrar algum erro, nesse caso o sistema indicara um abandono anormal do usuário os códigos de abandono do usuário começão com U e parte de 4012 esse codigos podem ser encontrados [no Language Environment Programming Reference](https://github.com/ThreeDP/MTM/blob/master/Manuais/Language%20Environment%20Programming%20Reference.pdf)
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/49.png)
+
+
+
