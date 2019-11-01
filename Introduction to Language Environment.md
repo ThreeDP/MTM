@@ -121,3 +121,11 @@ Exemplo:
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/41.png)
 
+**Quando uma condição ocorre e uma mensagem é enviada onde ela é alocada?**
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/42.png)
+
+- Caso esteja sendo executada no CICS a messagem será gravada no diretorio transitorio CESE.
+- Caso o LE MSGFILE esteja configurado um DD (data set) especifico irá armazenar a menssagem.
+- Caso contrário as mensagens serão gravadas no DD SYSOUT.
+
