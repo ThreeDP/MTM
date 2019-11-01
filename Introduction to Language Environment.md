@@ -150,5 +150,7 @@ O Usuário pode decidir abandonar se encontrar algum erro, nesse caso o sistema 
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/49.png)
 
+O usuário pode abandonar um programa usando os codigos **LE CEE3ABD** or **CEE3AB2**, as outra linguagens podem ter seus proprios comandos para finalizar.
 
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/50.png)
 
