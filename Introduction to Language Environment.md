@@ -136,4 +136,13 @@ Exemplo:
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/45.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/46.png)
 
+**Problemas Graves**
 
+[Manual para casoso graves](https://github.com/ThreeDP/MTM/blob/master/Manuais/MVS%20System%20Codes.pdf)
+
+> Em casos graves o sistema pode dicidir abandonar o processo. Depois do abandono o sistema mostra uma mensagem com o código do erro.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/47.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/48.png)
+
+O Usuário pode decidir abandonar se encontrar algum erro, nesse caso o sistema indicara um abandono anormal do usuário os códigos de abandono do usuário começão com U e parte de 4012 esse codigos podem ser encontrados [no Language Environment Programming Reference](https://github.com/ThreeDP/MTM/blob/master/Manuais/Language%20Environment%20Programming%20Reference.pdf)
