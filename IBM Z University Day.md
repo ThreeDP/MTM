@@ -3,3 +3,8 @@
 
 > criptografia em nível de hardware.
 
+### Data set
+
+data set particionado =  diretório
+data se
+
