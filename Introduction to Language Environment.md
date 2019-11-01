@@ -129,3 +129,9 @@ Exemplo:
 - Caso o LE MSGFILE esteja configurado um DD (data set) especifico irá armazenar a menssagem.
 - Caso contrário as mensagens serão gravadas no DD SYSOUT.
 
+### sessões de uma messagem de Language Environment
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/43.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/44.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/45.png)
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/46.png)
