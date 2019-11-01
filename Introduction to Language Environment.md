@@ -182,3 +182,6 @@ Quando o sistema é interropido ele pode produzir um SVC dump que possui o diagn
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/68.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/69.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/70.png)
+
+Consider the JCL used to execute an Enterprise PL/I program. Where would you find Language Environment Messages?
+![](https://github.com/ThreeDP/MTM/blob/master/img/Introduction%20to%20Language%20Environment/71.png)
