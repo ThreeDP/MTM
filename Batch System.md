@@ -80,4 +80,44 @@ Para executar um processo batch, um grupo JCL ou um programa basta enviar para o
 
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/10.png)
 
+**Quando um batch é projetado para acessar dados do banco de dados**
+> Para acessar o banco de dados será preciso acessar usando um gerenciado de banco de dados como por exemplo o IMS.
 
+Sendo assim o JCL executa o IMS como um programa batch e passa como parametro a aplicação, assim o IMS controla a execução e o acesso aos recursos.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/11.png)
+
+**Acesso de dados em DB2**
+> Da mesma forma que um programa batch DB2, programas são executados no TSO em modo batch e se *conectam ao sistema DB2 usando o* **Comando DSN**. 
+
+Depois disso o DB2 controla aspectos como pesquisa e concorrecia de programas.
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/12.png)
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/13.png)
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/14.png)
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/15.png)
+
+### Controlar e gerenciar tarefas
+
+**Interfaces para o controle e gerenciamento de tarefas**
+
+        1. ISPF Outlist 
+                                               | CA Workload Automation CA 7 edition
+        2. Para GUI enterprise management   ---| 
+                                               | IBM Tivoli Woekload Scheduler
+        
+        MAIS UTILIZADO ENTRE ELES:
+        3. z/OS ---------------------| System Display and Search Facility (SDSF)
+        
+        
+**Interface SDSF**
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/16.png)
+
+
+Ainda mais importante para usuários com a segurança certa, essa interface permite o acesso a mais informações sobre cada trabalho ou processo e a capacidade de gerenciar trabalhos alterando prioridades ou cancelando.
+
+**Controle de batch**
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/17.png)
