@@ -78,4 +78,6 @@ As instruções são executadas sequencialmente, o que significa que o STEP2 nã
 Para executar um processo batch, um grupo JCL ou um programa basta enviar para o JES.
 > É possivel enviar um JCL via linha de comando TSO, por meio dos menus do ISPF ou por um lote de controle de produção.
 
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/10.png)
+
 
