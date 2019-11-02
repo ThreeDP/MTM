@@ -63,3 +63,19 @@ As instruções são executadas sequencialmente, o que significa que o STEP2 nã
 **DD**
 
 > A instrução DD identifica um recurso do sistema usado ou exigido por uma etapa do trabalho.
+
+### Tipos de batch
+
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/8.png)
+
+**Programa IEFBR14** 
+> Que não faz nada. É frequentemente usado como um espaço reservado para permitir que instruções DD da JCL atuem nos conjuntos de dados.
+
+
+**É uma boa prática separar os processos**
+![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/9.png)
+
+Para executar um processo batch, um grupo JCL ou um programa basta enviar para o JES.
+> É possivel enviar um JCL via linha de comando TSO, por meio dos menus do ISPF ou por um lote de controle de produção.
+
+
