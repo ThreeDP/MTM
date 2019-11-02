@@ -60,3 +60,6 @@ As instruções são executadas sequencialmente, o que significa que o STEP2 nã
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/6.png)
 ![](https://github.com/ThreeDP/MTM/blob/master/img/Batch%20system/7.png)
 
+**DD**
+
+> A instrução DD identifica um recurso do sistema usado ou exigido por uma etapa do trabalho.
