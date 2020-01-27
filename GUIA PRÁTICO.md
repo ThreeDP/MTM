@@ -11,13 +11,19 @@
 
 # COMANDOS
 
+### COMANDOS ISPF
+
 **PREFIX**
 
     prefix *; owner z#####; st #exibi os status de todos os trabalhos do ID vinculado.
 
+_______________________________________________________________
+
+### COMANDOS SDSF
 
 **XDC**
 
+    xdc
     Comando dado dentro no SDSF na Coluna NP. Confira imagens.
     
 ![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/xdc_01.png)
@@ -29,3 +35,10 @@
   
 ![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/xdc_02.png)
 
+**P**
+
+    p (purge)
+    comando dado no SDSF na coluna NP para fechar/ finalizar um job.
+
+![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/purge.png)
+    
