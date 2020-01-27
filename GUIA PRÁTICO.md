@@ -42,3 +42,32 @@ _______________________________________________________________
 
 ![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/purge.png)
     
+### COMANDOS TSO
+
+**ISPF -----------------------------------------------------------------------------**
+
+    ispf
+    comando dado no painel de comando tso para voltar para a interface doo ispf.
+    
+![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/tso_ispf.png)
+
+**LISTC ----------------------------------------------------------------------------**
+
+    listc
+    Comando dado para mostrar uma lista atual de data sets. Mostra todos os seus data sets.
+    
+![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/tso_list.png)
+
+**NETSTAT HOME ---------------------------------------------------------------------**
+
+    netstat home
+    Mostra o IP do systema.
+    
+![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/tso_net.png)
+
+**TIME -----------------------------------------------------------------------------**
+
+    time
+    Mostra a data e a hora.
+    
+![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/tso_time.png)
