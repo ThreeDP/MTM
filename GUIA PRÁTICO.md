@@ -21,7 +21,7 @@ _______________________________________________________________
 
 ### COMANDOS SDSF
 
-**XDC**
+**XDC ------------------------------------------------------------------------------**
 
     xdc
     Comando dado dentro no SDSF na Coluna NP. Confira imagens.
@@ -35,7 +35,7 @@ _______________________________________________________________
   
 ![](https://github.com/ThreeDP/MTM/blob/master/MTM_img/xdc_02.png)
 
-**P**
+**P --------------------------------------------------------------------------------**
 
     p (purge)
     comando dado no SDSF na coluna NP para fechar/ finalizar um job.
