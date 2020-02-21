@@ -6,7 +6,7 @@
 > A ação que quero tomar é simples, copiar todos os membros do data set SOW1.ISPF.ISPPROF para o data set SWO1.EXEC, para essa ação iremos utilizar o comando:
 
     co /
-    *Onde co é ... e / é ...
+    *Onde co é para copiar e a barra slash / é para indicar ao sistema que o data set que será copiado é o da linha.
   
 > Na coluna Command do menu em frente ao data set que estão os arquivos que queremos copiar:
 
