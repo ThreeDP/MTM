@@ -20,4 +20,6 @@
 
 ![Atribuindo data set de destino](https://github.com/ThreeDP/MTM/blob/master/comandos/Menu%20ISPF/copiando%20data%20sets/atribuindo-data-set-de-destino.PNG)
 
+
+
 ![Sucesso da copia](https://github.com/ThreeDP/MTM/blob/master/comandos/Menu%20ISPF/copiando%20data%20sets/sucesso-copia-de-todos.PNG)
