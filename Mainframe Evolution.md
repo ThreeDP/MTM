@@ -25,6 +25,10 @@ Para criar um ambiente de multiprogramming a central storage foi divididas em re
 
 > Os operadores podem emitir comandos para o JES para controlar a direção das listagens e garantir que o processo de impressão seja suave e eficiente.
 
+Sendo assim o JES fica responsável por indicar em quais dispositivos serão feitas as leituras ou escritas e o SPOOL fica respósavel por armazenar os pedidos de leitura e escrita do programas tendo como uma especie de ID um numero unico e os seus nomes.
+
+> A introdução do spool trouxe muitas vantagens, incluindo o fato de que agora as imagens dos cartões podiam ser recuperadas do spool, para que os perfuradores dos cartões não fossem mais necessários.
+
 1. Supervisor
 2. Spool
 3. IPL
