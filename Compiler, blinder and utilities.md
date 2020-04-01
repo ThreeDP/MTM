@@ -6,3 +6,5 @@
  > O fichário carrega programas e rotinas das bibliotecas de objetos na memória de ponta a ponta e, em seguida, resolve as referências externas em cada seção, convertendo símbolos, como RTN02, em endereços, como 006800.
 
 > A maioria dos programas não é executada após a edição do link. Em vez disso, eles são armazenados em um LOADLIB como módulos de carregamento. Eles podem ser chamados com o parâmetro PGM de uma instrução de controle de tarefa EXEC.
+
+> O load module é como se fosse uma pre renderização do código com suas rotinas encaixadas em um unico código. E as chamadas das rotinas são semelhantes as usados no assemble pullado para a rotina e plando novamente para o código quando terminado a rotina.
