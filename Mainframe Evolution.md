@@ -19,7 +19,6 @@ Para criar um ambiente de multiprogramming a central storage foi divididas em re
 > Quando alguma região fica disponivel a JCL le o SPOOL e o programa indicado começa a ser executado. Quando o programa tenta gravar em uma impressora, o supervisor reconhece que a solicitação é para um dispositivo em spool. Ele passa a solicitação para JES, que desvia o registro de saída para um conjunto de dados em spool.
 
 > As informações de status são passadas primeiro ao JES, caso seja necessário um ajuste antes de serem entregues ao programa. Uma técnica semelhante é usado quando um programa tenta ler ou escrever cartões.
-# Temas importantes
 
 > Depois que as listagens de programas foram gravadas no spool, o JES pode direcioná-las para as impressoras automaticamente.
 
@@ -28,6 +27,19 @@ Para criar um ambiente de multiprogramming a central storage foi divididas em re
 Sendo assim o JES fica responsável por indicar em quais dispositivos serão feitas as leituras ou escritas e o SPOOL fica respósavel por armazenar os pedidos de leitura e escrita do programas tendo como uma especie de ID um numero unico e os seus nomes.
 
 > A introdução do spool trouxe muitas vantagens, incluindo o fato de que agora as imagens dos cartões podiam ser recuperadas do spool, para que os perfuradores dos cartões não fossem mais necessários.
+
+**Virtual Storage**
+> Veio para solucionar a falta de memoria para executar um grande numero de programas.
+
+
+
+
+
+
+
+# Temas importantes
+
+
 
 1. Supervisor
 2. Spool
