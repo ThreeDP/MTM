@@ -32,7 +32,11 @@ Sendo assim o JES fica responsável por indicar em quais dispositivos serão fei
 > Veio para solucionar a falta de memoria para executar um grande numero de programas.
 
 
+SDSF
+> mais usado por operadores de mainframe para consultar saidas e realizar algumas modificações especificas.
 
+ISPF
+> Tem uma visã mais abrangente usados mais por desenvolvedores mainframe por disponibilizar mais funcionalidades.
 
 
 
