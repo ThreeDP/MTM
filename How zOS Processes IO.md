@@ -16,3 +16,11 @@
     - Garante sincronização
     - Se houver uma falha, ele redirecionará automaticamente a solicitação de I/O
 
+**EXCP Processor**
+> O processador EXCP converte o programa de canal que recebeu do método de acesso em um formato que o subsistema de canal pode usar e chama os serviços do supervisor de I / O (IOS).
+
+**IOS**
+> 
+O supervisor de I / O conectará a solicitação de I / O à fila apropriada do dispositivo de I / O, se já houver solicitações de I / O pendentes para este dispositivo de E / S e sinalize o subsistema de canais sobre o excelente trabalho.
+
+> O processador central pode então processar outro trabalho enquanto aguarda a conclusão da I / O.
