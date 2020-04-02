@@ -20,7 +20,9 @@
 > O processador EXCP converte o programa de canal que recebeu do método de acesso em um formato que o subsistema de canal pode usar e chama os serviços do supervisor de I / O (IOS).
 
 **IOS**
-> 
-O supervisor de I / O conectará a solicitação de I / O à fila apropriada do dispositivo de I / O, se já houver solicitações de I / O pendentes para este dispositivo de E / S e sinalize o subsistema de canais sobre o excelente trabalho.
+> O supervisor de I / O conectará a solicitação de I / O à fila apropriada do dispositivo de I / O, se já houver solicitações de I / O pendentes para este dispositivo de E / S e sinalize o subsistema de canais sobre o excelente trabalho.
 
 > O processador central pode então processar outro trabalho enquanto aguarda a conclusão da I / O.
+
+**Fisrt Level Interrupt Handler (FLIH)**
+> O sistema operacional recebe a interrupção de I / O e o manipulador de interrupção de primeiro nível (FLIH) passa o controle para o IOS, que interpreta e passa o controle de volta ao processador EXCP.
