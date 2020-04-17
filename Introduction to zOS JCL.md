@@ -6,6 +6,8 @@
 **Name**
 > O campo de nome atribui um identificador que pode ser referido por outras instruções ou pelo sistema.
 
+> O campo nome pode ter de 1 á 8 caracteres que podem ser letras, números ou caracteres nacionais(#, @, $). O primeiro caracter sempre deve ser uma letra ou caracter nacional.
+
 **Comments**
 > Os comentários podem se estender à coluna 80 e permitir que você insira texto de forma livre que geralmente fornece uma descrição da atividade ou outras informações importantes.
 
